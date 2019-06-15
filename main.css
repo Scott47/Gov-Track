@@ -1,0 +1,15 @@
+body {
+    background-color: aquamarine;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 6px;
+    margin-top: 6px;
+}
+.infoBasic {
+    font-weight: 500;
+    font-color: green;
+    padding: 10px;
+    background-color: gray
+}
