@@ -1,15 +1,17 @@
 body {
-    background-color: aquamarine;
+    background-color: whitesmoke;
 }
 
 nav ul li {
     display: inline;
     margin-right: 6px;
-    margin-top: 6px;
+    margin-left: 6px;
 }
-.infoBasic {
+
+.info--basic {
     font-weight: 500;
-    font-color: green;
+    color: black;
     padding: 10px;
-    background-color: gray
+    float: right;
 }
+
